@@ -5,6 +5,7 @@
 <!---reponaam -->RepoNaam: BAP1617_MikeMeyers
 <!---promotor -->Promotor: Tim Dams
 <!---phone -->Telefoon: 0422552554
-<!---address -->Address: banaan 69 2940 stabroek <!---end -->
+<!---address -->Address: banaan 69 2940 stabroek 
+<!---company -->Bedrijf: Beeple <!---end -->
 
 Some other info
